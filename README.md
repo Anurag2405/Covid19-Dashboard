@@ -1,5 +1,8 @@
 # COVID 19 Data Dashboard using tkinter
 
+My project on Stanford Website
+https://codeinplace.stanford.edu/2021/showcase/327
+
 ![Screenshot (195)](https://user-images.githubusercontent.com/78203199/184590694-3ea6478f-79b1-42a9-b4aa-131231714827.png)
 ## Most confirmed cases
 ![Screenshot (196)](https://user-images.githubusercontent.com/78203199/184590702-0752b03d-2cd9-4569-b0f8-2ef8c38cdf71.png)
